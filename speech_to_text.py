@@ -1,3 +1,5 @@
+# Author: Endri Dibra
+
 # Below i use the required libraries
 import speech_recognition as sp
 
